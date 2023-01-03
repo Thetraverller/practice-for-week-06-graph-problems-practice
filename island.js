@@ -1,5 +1,6 @@
 function getNeighbors(row, col, graph) {
 
+  
   // Check top
 
   // Check bottom
